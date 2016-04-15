@@ -1306,12 +1306,8 @@ em.search-keyword {
   font-style: normal;
   color: #01579f; }
 
-#ds-thread #ds-reset .ds-post-options {
-  position: relative;
-  margin-right: 100px;
-  height: 30px;
-  /* border: 1px solid #ccc; */
-  border-right: none;
-  border-bottom-color: #aaa;
-  border-bottom-left-radius: 3px;
-  -webkit-border-bottom-left-radius: 3px; }
+.tagcloud a {
+  background: #F5F3F0;
+  margin: 3px;
+  border-radius: 5px;
+  float: left; }
