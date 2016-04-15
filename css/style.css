@@ -1311,3 +1311,6 @@ em.search-keyword {
   margin: 3px;
   border-radius: 5px;
   float: left; }
+
+.tagcloud {
+  display: inline-block; }
