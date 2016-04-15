@@ -12,9 +12,9 @@
 <p><code>r</code>：對目錄內容的讀取權限</p>
 <p><code>w</code>：對目錄內容的修改權限</p>
 <p><code>x</code>：對目錄的訪問權限</p>
-<h2 id="如何改變文件屬性和權限"><a href="#如何改變文件屬性和權限" class="headerlink" title="如何改變文件屬性和權限"></a>如何改變文件屬性和權限</h2><figure class="highlight plain"><table><tr><td class="gutter"><pre><span class="line">1</span><br><span class="line">2</span><br><span class="line">3</span><br><span class="line">4</span><br><span class="line">5</span><br><span class="line">6</span><br><span class="line">7</span><br><span class="line">8</span><br></pre></td><td class="code"><pre><span class="line">   chgrp:改變文件所屬用戶組</span><br><span class="line">   chown:改變文件所有者</span><br><span class="line">   chmod:改變文件的權限</span><br><span class="line"></span><br><span class="line">```    </span><br><span class="line"></span><br><span class="line"></span><br><span class="line">### 改變所屬用戶組</span><br></pre></td></tr></table></figure>
-<p> chgrp [-R] dirname</p>
-<p> ```</p>
+<h2 id="如何改變文件屬性和權限"><a href="#如何改變文件屬性和權限" class="headerlink" title="如何改變文件屬性和權限"></a>如何改變文件屬性和權限</h2><figure class="highlight plain"><table><tr><td class="gutter"><pre><span class="line">1</span><br><span class="line">2</span><br><span class="line">3</span><br><span class="line">4</span><br><span class="line">5</span><br><span class="line">6</span><br><span class="line">7</span><br><span class="line">8</span><br></pre></td><td class="code"><pre><span class="line">chgrp:改變文件所屬用戶組</span><br><span class="line">chown:改變文件所有者</span><br><span class="line">chmod:改變文件的權限</span><br><span class="line"></span><br><span class="line">```    </span><br><span class="line"></span><br><span class="line"></span><br><span class="line">### 改變所屬用戶組</span><br></pre></td></tr></table></figure>
+<p>chgrp [-R] dirname</p>
+<p>```</p>
 <p>其中<code>-R</code>表示遞歸(recursive)的意思</p>
 <h3 id="改變文件所有者"><a href="#改變文件所有者" class="headerlink" title="改變文件所有者"></a>改變文件所有者</h3><pre><code>chown [-R] 帳號名稱 文件或目錄
 </code></pre><h3 id="改變權限"><a href="#改變權限" class="headerlink" title="改變權限"></a>改變權限</h3><pre><code>chmod [-R] xyz  文件或者目錄
