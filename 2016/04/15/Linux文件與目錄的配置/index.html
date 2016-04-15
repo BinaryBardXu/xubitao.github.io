@@ -12,10 +12,8 @@
 <p><code>r</code>：對目錄內容的讀取權限</p>
 <p><code>w</code>：對目錄內容的修改權限</p>
 <p><code>x</code>：對目錄的訪問權限</p>
-<h2 id="如何改變文件屬性和權限"><a href="#如何改變文件屬性和權限" class="headerlink" title="如何改變文件屬性和權限"></a>如何改變文件屬性和權限</h2><pre><code>chgrp:改變文件所屬用戶組
-chown:改變文件所有者
-chmod:改變文件的權限
-</code></pre><h3 id="改變所屬用戶組"><a href="#改變所屬用戶組" class="headerlink" title="改變所屬用戶組"></a>改變所屬用戶組</h3><pre><code>chgrp [-R] dirname
+<h2 id="如何改變文件屬性和權限"><a href="#如何改變文件屬性和權限" class="headerlink" title="如何改變文件屬性和權限"></a>如何改變文件屬性和權限</h2><p>   chgrp:改變文件所屬用戶組<br>   chown:改變文件所有者<br>   chmod:改變文件的權限</p>
+<h3 id="改變所屬用戶組"><a href="#改變所屬用戶組" class="headerlink" title="改變所屬用戶組"></a>改變所屬用戶組</h3><pre><code>`chgrp [-R] dirname`
 </code></pre><p>其中<code>-R</code>表示遞歸(recursive)的意思</p>
 <h3 id="改變文件所有者"><a href="#改變文件所有者" class="headerlink" title="改變文件所有者"></a>改變文件所有者</h3><pre><code>chown [-R] 帳號名稱 文件或目錄
 </code></pre><h3 id="改變權限"><a href="#改變權限" class="headerlink" title="改變權限"></a>改變權限</h3><pre><code>chmod [-R] xyz  文件或者目錄
