@@ -2,13 +2,6 @@
 <urlset xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:image="http://www.google.com/schemas/sitemap-image/1.1" xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9 http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd" xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
 
     <url>
-        <loc>http://xubitao.github.io/tags/%E9%A8%B7%E7%AA%A9%E6%88%91%E7%9A%84%E7%AA%A9/</loc>
-        <lastmod>2016-04-14T22:37:32.000Z</lastmod>
-        <changefreq>weekly</changefreq>
-        <priority>0.2</priority>
-    </url>
-
-    <url>
         <loc>http://xubitao.github.io/tags/%E5%A6%82%E4%BD%95%E9%96%B1%E8%AE%80%E4%B8%80%E6%9C%AC%E6%9B%B8/</loc>
         <lastmod>2016-04-15T16:14:57.000Z</lastmod>
         <changefreq>weekly</changefreq>
