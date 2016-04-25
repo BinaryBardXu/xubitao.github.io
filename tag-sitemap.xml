@@ -23,15 +23,29 @@
     </url>
 
     <url>
-        <loc>http://xubitao.github.io/tags/2016/</loc>
+        <loc>http://xubitao.github.io/tags/Git-101%E9%97%AE/</loc>
         <lastmod>2016-04-20T09:36:50.000Z</lastmod>
         <changefreq>weekly</changefreq>
         <priority>0.2</priority>
     </url>
 
     <url>
-        <loc>http://xubitao.github.io/tags/Git-101%E9%97%AE/</loc>
-        <lastmod>2016-04-20T09:36:50.000Z</lastmod>
+        <loc>http://xubitao.github.io/tags/2016/</loc>
+        <lastmod>2016-04-25T15:18:37.000Z</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>0.2</priority>
+    </url>
+
+    <url>
+        <loc>http://xubitao.github.io/tags/REST/</loc>
+        <lastmod>2016-04-25T15:18:37.000Z</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>0.2</priority>
+    </url>
+
+    <url>
+        <loc>http://xubitao.github.io/tags/Web-APIs/</loc>
+        <lastmod>2016-04-25T15:18:37.000Z</lastmod>
         <changefreq>weekly</changefreq>
         <priority>0.2</priority>
     </url>
