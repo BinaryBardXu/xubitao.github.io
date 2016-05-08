@@ -44,15 +44,29 @@
     </url>
 
     <url>
-        <loc>http://xubitao.github.io/tags/2016/</loc>
+        <loc>http://xubitao.github.io/tags/%E5%AD%A6%E4%BC%9A%E6%8F%90%E9%97%AE/</loc>
         <lastmod>2016-05-01T15:55:12.000Z</lastmod>
         <changefreq>weekly</changefreq>
         <priority>0.2</priority>
     </url>
 
     <url>
-        <loc>http://xubitao.github.io/tags/%E5%AD%A6%E4%BC%9A%E6%8F%90%E9%97%AE/</loc>
-        <lastmod>2016-05-01T15:55:12.000Z</lastmod>
+        <loc>http://xubitao.github.io/tags/2016/</loc>
+        <lastmod>2016-05-08T15:40:24.000Z</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>0.2</priority>
+    </url>
+
+    <url>
+        <loc>http://xubitao.github.io/tags/linux/</loc>
+        <lastmod>2016-05-08T15:40:24.000Z</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>0.2</priority>
+    </url>
+
+    <url>
+        <loc>http://xubitao.github.io/tags/%E5%AD%A6%E4%B9%A0%E8%AE%B0%E5%BD%95/</loc>
+        <lastmod>2016-05-08T15:40:24.000Z</lastmod>
         <changefreq>weekly</changefreq>
         <priority>0.2</priority>
     </url>
