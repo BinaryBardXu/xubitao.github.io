@@ -51,13 +51,6 @@
     </url>
 
     <url>
-        <loc>http://xubitao.github.io/tags/2016/</loc>
-        <lastmod>2016-05-08T15:40:24.000Z</lastmod>
-        <changefreq>weekly</changefreq>
-        <priority>0.2</priority>
-    </url>
-
-    <url>
         <loc>http://xubitao.github.io/tags/linux/</loc>
         <lastmod>2016-05-08T15:40:24.000Z</lastmod>
         <changefreq>weekly</changefreq>
@@ -74,6 +67,13 @@
     <url>
         <loc>http://xubitao.github.io/tags/%E6%80%9D%E5%A5%87-rest-assured-spring-boot/</loc>
         <lastmod>2016-05-19T09:57:47.000Z</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>0.2</priority>
+    </url>
+
+    <url>
+        <loc>http://xubitao.github.io/tags/2016/</loc>
+        <lastmod>2016-05-22T09:26:44.000Z</lastmod>
         <changefreq>weekly</changefreq>
         <priority>0.2</priority>
     </url>
