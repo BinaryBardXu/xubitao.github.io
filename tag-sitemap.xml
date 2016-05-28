@@ -79,13 +79,6 @@
     </url>
 
     <url>
-        <loc>http://xubitao.github.io/tags/2016/</loc>
-        <lastmod>2016-05-28T04:39:31.000Z</lastmod>
-        <changefreq>weekly</changefreq>
-        <priority>0.2</priority>
-    </url>
-
-    <url>
         <loc>http://xubitao.github.io/tags/%E6%80%9D%E5%A5%87/</loc>
         <lastmod>2016-05-28T04:39:31.000Z</lastmod>
         <changefreq>weekly</changefreq>
@@ -95,6 +88,13 @@
     <url>
         <loc>http://xubitao.github.io/tags/%E6%B5%8B%E8%AF%95%E8%87%AA%E5%8A%A8%E5%8C%96/</loc>
         <lastmod>2016-05-28T04:39:31.000Z</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>0.2</priority>
+    </url>
+
+    <url>
+        <loc>http://xubitao.github.io/tags/2016/</loc>
+        <lastmod>2016-05-28T04:41:50.000Z</lastmod>
         <changefreq>weekly</changefreq>
         <priority>0.2</priority>
     </url>
