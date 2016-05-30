@@ -756,7 +756,8 @@ figure.highlight .gutter,
 .codeblock .gutter {
   background: #f7f8f8;
   border-right: 1px solid #e6e6e6;
-  padding: 0.3em 15px; }
+  padding: 0.3em 15px;
+  display: none; }
 
 figure.highlight .gutter .line,
 .codeblock .gutter .line {
