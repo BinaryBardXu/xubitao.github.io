@@ -7,6 +7,14 @@
     </url>
 
     <url>
+        <loc>http://xubitao.github.io/2016/06/01/gradle%E5%9C%A8%E5%93%AA%E4%BA%9B%E6%96%B9%E9%9D%A2%E6%AF%94maven%E6%9B%B4%E4%BC%98%E8%B6%8A/</loc>
+        <lastmod>2016-06-01T08:32:23.000Z</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>0.6</priority>
+
+    </url>
+
+    <url>
         <loc>http://xubitao.github.io/2016/05/18/rest-assured/</loc>
         <lastmod>2016-05-30T00:49:44.000Z</lastmod>
         <changefreq>weekly</changefreq>
