@@ -65,13 +65,6 @@
     </url>
 
     <url>
-        <loc>http://xubitao.github.io/tags/2016/</loc>
-        <lastmod>2016-05-30T00:45:57.000Z</lastmod>
-        <changefreq>weekly</changefreq>
-        <priority>0.2</priority>
-    </url>
-
-    <url>
         <loc>http://xubitao.github.io/tags/%E6%B5%8B%E8%AF%95%E8%87%AA%E5%8A%A8%E5%8C%96/</loc>
         <lastmod>2016-05-30T00:45:57.000Z</lastmod>
         <changefreq>weekly</changefreq>
@@ -95,6 +88,13 @@
     <url>
         <loc>http://xubitao.github.io/tags/spring-boot/</loc>
         <lastmod>2016-05-30T00:49:44.000Z</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>0.2</priority>
+    </url>
+
+    <url>
+        <loc>http://xubitao.github.io/tags/2016/</loc>
+        <lastmod>2016-06-19T02:23:51.000Z</lastmod>
         <changefreq>weekly</changefreq>
         <priority>0.2</priority>
     </url>
